@@ -114,3 +114,4 @@ Desenvolvedor Fullstack e estudante de TI na UFRN, com foco em usar uma visão s
 ### 📊 Estatísticas
 
 <img src="profile/stats.svg" alt="Stats" />
+<img src="profile/top-langs.svg" alt="Top Langs" /> 
