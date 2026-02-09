@@ -122,6 +122,8 @@ Desenvolvedor Fullstack e estudante de TI na UFRN, com foco em usar uma visão s
     src="https://github-readme-stats.vercel.app/api?username=joburato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joburato)](https://github.com/anuraghazra/github-readme-stats)
+
 <img 
       align="left" 
       alt="GitHub Stats" 
