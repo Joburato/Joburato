@@ -53,6 +53,14 @@ Desenvolvedor Fullstack e estudante de TI na UFRN, com foco em usar uma visão s
 />
 <img 
     align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -74,15 +82,7 @@ Desenvolvedor Fullstack e estudante de TI na UFRN, com foco em usar uma visão s
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"
-/>     
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
+/>    
 <img 
     align="left" 
     alt="JQuery" 
