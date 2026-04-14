@@ -3,7 +3,6 @@
 **`Desenvolvedor Fullstack | React | Node.js | Python | .NET`**
 
 
-
 Desenvolvedor Fullstack e estudante de TI na UFRN, com foco em usar uma visão sistêmica para construir a solução certa, da maneira certa — desde a concepção da ideia até a estabilidade do sistema em produção.
 
 <p align="left">
